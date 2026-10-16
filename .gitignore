@@ -1,0 +1,20 @@
+# Secrets
+.env
+env.list
+
+# Local lab data (auto-seeded on first run)
+transactions.db
+exports/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
